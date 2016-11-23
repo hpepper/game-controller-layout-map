@@ -1,0 +1,23 @@
+<ButtonActions Title="Titanfall Titan">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Aim</Button>
+<Button Name="RightStickButton">Melee</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Dash</Button>
+<Button Name="B">Crouch</Button>
+<Button Name="X">Reload/hold:exit entr</Button>
+<Button Name="Y">Pick-up wpn</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">Spc</Button>
+<Button Name="RightBumper">Alt-Fire</Button>
+<Notes></Notes>
+</ButtonActions>
+

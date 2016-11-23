@@ -1,0 +1,23 @@
+<ButtonActions Title="BF2 - Helicopter">
+<Button Name="BackButton">Spot enemy</Button>
+<Button Name="StartButton">menu</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Roll</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Pitch/yaw</Button>
+<Button Name="RightStickButton"></Button>
+<Button Name="DPadUp">Toggle camera</Button>
+<Button Name="DPadDown">Rear view</Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Change position</Button>
+<Button Name="B">Enter/exit vehicle</Button>
+<Button Name="X">Reload</Button>
+<Button Name="Y"></Button>
+<Button Name="LeftTrigger">Descend</Button>
+<Button Name="RightTrigger">Ascend</Button>
+<Button Name="LeftBumper">Fire</Button>
+<Button Name="RightBumper">Alternate fire</Button>
+<Notes></Notes>
+</ButtonActions>
+

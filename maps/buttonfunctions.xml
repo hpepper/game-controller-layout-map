@@ -1,0 +1,23 @@
+<ButtonActions Title="">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick"></Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick"></Button>
+<Button Name="RightStickButton"></Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A"></Button>
+<Button Name="B"></Button>
+<Button Name="X"></Button>
+<Button Name="Y"></Button>
+<Button Name="LeftTrigger"></Button>
+<Button Name="RightTrigger"></Button>
+<Button Name="LeftBumper"></Button>
+<Button Name="RightBumper"></Button>
+<Notes></Notes>
+</ButtonActions>
+

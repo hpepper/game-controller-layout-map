@@ -1,0 +1,23 @@
+<ButtonActions Title="Front Mission Evolved">
+<Button Name="BackButton">Statistics</Button>
+<Button Name="StartButton">Pause game</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Toggle Skate</Button>
+<Button Name="RightStick">Move cam/aim</Button>
+<Button Name="RightStickButton">Toggle precision aim</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Jump - Hover - Descent</Button>
+<Button Name="B">Use backpack</Button>
+<Button Name="X">Dodge</Button>
+<Button Name="Y"></Button>
+<Button Name="LeftTrigger">Fire L-Hand Wpn</Button>
+<Button Name="RightTrigger">Fire R-Hand Wpn</Button>
+<Button Name="LeftBumper">Fire L-Shoulder Wpn</Button>
+<Button Name="RightBumper">Fire R-Shoulder Wpn</Button>
+<Notes></Notes>
+</ButtonActions>
+

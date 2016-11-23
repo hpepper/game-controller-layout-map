@@ -1,0 +1,22 @@
+<ButtonActions Title="Brutal legend - stage battles">
+<Button Name="BackButton">map</Button>
+<Button Name="StartButton">menu</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">toggle fly</Button>
+<Button Name="DPadUp">Charge</Button>
+<Button Name="DPadDown">Defend</Button>
+<Button Name="DPadLeft">Follow</Button>
+<Button Name="DPadRight">Move to beacon</Button>
+<Button Name="A"></Button>
+<Button Name="B"></Button>
+<Button Name="X"></Button>
+<Button Name="Y"></Button>
+<Button Name="LeftTrigger">Descend</Button>
+<Button Name="RightTrigger">Rise</Button>
+<Button Name="LeftBumper">Place beacon</Button>
+<Button Name="RightBumper">Recruit menu</Button>
+<Notes></Notes>
+</ButtonActions>

@@ -1,0 +1,22 @@
+<ButtonActions Title="Brutal Legend - On foot">
+<Button Name="BackButton">Open map</Button>
+<Button Name="StartButton">Pause menu</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Fly</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Axe attack</Button>
+<Button Name="B">Block</Button>
+<Button Name="X">Guitar attack</Button>
+<Button Name="Y">Interact</Button>
+<Button Name="LeftTrigger">Target enemy</Button>
+<Button Name="RightTrigger">Solo menu</Button>
+<Button Name="LeftBumper">Place cmd beacon</Button>
+<Button Name="RightBumper">Recruit menu</Button>
+<Notes></Notes>
+</ButtonActions>

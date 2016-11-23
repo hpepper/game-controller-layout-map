@@ -1,0 +1,22 @@
+<ButtonActions Title="Ghost Recon - Advanced Warfighter">
+<Button Name="BackButton">Intel map</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="StartButton">Menu/Pause</Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">ChangeStance</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Zoom</Button>
+<Button Name="DPadUp">Select Speeaker</Button>
+<Button Name="DPadDown">Select Speaker</Button>
+<Button Name="DPadLeft">Order</Button>
+<Button Name="DPadRight">Order</Button>
+<Button Name="A">Reload/Fire mode</Button>
+<Button Name="B">Select weapon</Button>
+<Button Name="X">Vision</Button>
+<Button Name="Y">Action</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">Peek</Button>
+<Button Name="RightBumper">Switch Cam side</Button>
+<Notes></Notes>
+</ButtonActions>

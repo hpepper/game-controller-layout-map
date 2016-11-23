@@ -1,0 +1,22 @@
+<ButtonActions Title="Modern Warfare 3">
+<Button Name="BackButton">Scoreboard</Button>
+<Button Name="StartButton">Objectives</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Melee</Button>
+<Button Name="DPadUp">Inventory</Button>
+<Button Name="DPadDown">Inventory</Button>
+<Button Name="DPadLeft">Inventory</Button>
+<Button Name="DPadRight">Inventory</Button>
+<Button Name="A">Jump</Button>
+<Button Name="B">Crouch + Prone</Button>
+<Button Name="X">Use + Reload</Button>
+<Button Name="Y">Switch wpn</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">Thrw spc grenade</Button>
+<Button Name="RightBumper">Throw grenade</Button>
+<Notes></Notes>
+</ButtonActions>

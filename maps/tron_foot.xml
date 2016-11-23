@@ -1,0 +1,22 @@
+<ButtonActions Title="Tron on foot">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Look reset</Button>
+<Button Name="DPadUp">pwr</Button>
+<Button Name="DPadDown">pwr</Button>
+<Button Name="DPadLeft">pwr</Button>
+<Button Name="DPadRight">pwr</Button>
+<Button Name="A">Jump</Button>
+<Button Name="B">Melee</Button>
+<Button Name="X">Disc attack</Button>
+<Button Name="Y">Disc power</Button>
+<Button Name="LeftTrigger">Block</Button>
+<Button Name="RightTrigger">Sprint</Button>
+<Button Name="LeftBumper"></Button>
+<Button Name="RightBumper"></Button>
+<Notes></Notes>
+</ButtonActions>

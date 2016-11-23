@@ -1,0 +1,39 @@
+<ButtonActions Title="Army of Two">
+<Button Name="BackButton">Scoreboard</Button>
+<Button Name="StartButton">Pause menu</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Crouch/Stand</Button>
+<Button Name="RightStick">Camera/Aim</Button>
+<Button Name="RightStickButton">Switch camera side</Button>
+<Button Name="DPadUp">advance / Primary w</Button>
+<Button Name="DPadDown">Partner cam / w Customization</Button>
+<Button Name="DPadLeft">Regroup / Secondary w</Button>
+<Button Name="DPadRight">Hold pos / Special w</Button>
+<Button Name="A">CSA/Use/Roll/Dash/Vault</Button>
+<Button Name="B">Melee attack</Button>
+<Button Name="X">Reload/Pick up wpn</Button>
+<Button Name="Y">cycle wpn (tap) / Wpn menu(hold)</Button>
+<Button Name="LeftTrigger">Precision aiming</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">GPS / co-op actions(hold)</Button>
+<Button Name="RightBumper">Grenad (hold to aim, release to throw)</Button>
+<Notes>---+ CO-OP Game
+---++ Host
+# Choose: Campaign
+# Choose: Online private co-op
+# select saver
+# Choose: continue
+# Choose: salent through
+# press X invite friend
+# Invite to party and game
+
+---++ Client
+# Press the X-Box button.
+# select messages
+# highlight invite
+# press A for select
+# press A to join party and game.
+</Notes>
+</ButtonActions>
+

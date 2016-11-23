@@ -1,0 +1,23 @@
+<ButtonActions Title="GoW 3">
+<Button Name="BackButton">MP Score</Button>
+<Button Name="StartButton">start/pause</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Tag enemy</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Zoom</Button>
+<Button Name="DPadUp">Grenade</Button>
+<Button Name="DPadDown">Pistol</Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Cover/Roll Hld: run</Button>
+<Button Name="B">Melee, Hld: ChSaw</Button>
+<Button Name="X">Use</Button>
+<Button Name="Y">Take down</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire/throw</Button>
+<Button Name="LeftBumper">Squad status</Button>
+<Button Name="RightBumper">reload Wpn</Button>
+<Notes></Notes>
+</ButtonActions>
+

@@ -1,0 +1,22 @@
+<ButtonActions Title="007 Quantum of Solace">
+<Button Name="BackButton">Check phone</Button>
+<Button Name="StartButton">Pause</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Takedown</Button>
+<Button Name="DPadUp">Fire rate</Button>
+<Button Name="DPadDown">Tgl Silencer</Button>
+<Button Name="DPadLeft">Chg granade</Button>
+<Button Name="DPadRight">Chg granade</Button>
+<Button Name="A">Cover</Button>
+<Button Name="B">Stance chg</Button>
+<Button Name="X">Reload/use</Button>
+<Button Name="Y">Jump</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">Cycl wpn</Button>
+<Button Name="RightBumper">Thrw grenade</Button>
+<Notes></Notes>
+</ButtonActions>

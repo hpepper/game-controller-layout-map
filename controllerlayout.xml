@@ -1,0 +1,142 @@
+<ControllerLayout>
+<PictureFile>templates/xbox360_controller_template.png</PictureFile>
+<GameTitle>
+ <JustificationPositionX></JustificationPositionX>
+ <JustificationPositionY></JustificationPositionY>
+ <LineToX></LineToX>
+ <LineToY></LineToY>
+</GameTitle>
+<Button Name="BackButton">
+ <JustificationPositionX>280</JustificationPositionX>
+ <JustificationPositionY>480</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>485</LineToX>
+ <LineToY>350</LineToY>
+</Button>
+<Button Name="StartButton">
+ <JustificationPositionX>820</JustificationPositionX>
+ <JustificationPositionY>480</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>630</LineToX>
+ <LineToY>350</LineToY>
+</Button>
+<Button Name="XBoxButton">
+ <JustificationPositionX></JustificationPositionX>
+ <JustificationPositionY></JustificationPositionY>
+ <Justification>C</Justification>
+ <LineToX></LineToX>
+ <LineToY></LineToY>
+</Button>
+<Button Name="LeftStick">
+ <JustificationPositionX>250</JustificationPositionX>
+ <JustificationPositionY>310</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>330</LineToX>
+ <LineToY>345</LineToY>
+</Button>
+<Button Name="LeftStickButton">
+ <JustificationPositionX>250</JustificationPositionX>
+ <JustificationPositionY>340</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>330</LineToX>
+ <LineToY>345</LineToY>
+</Button>
+<Button Name="RightStick">
+ <JustificationPositionX>740</JustificationPositionX>
+ <JustificationPositionY>530</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>650</LineToX>
+ <LineToY>460</LineToY>
+</Button>
+<Button Name="RightStickButton">
+ <JustificationPositionX>740</JustificationPositionX>
+ <JustificationPositionY>570</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>650</LineToX>
+ <LineToY>460</LineToY>
+</Button>
+<Button Name="DPadUp">
+ <JustificationPositionX>450</JustificationPositionX>
+ <JustificationPositionY>650</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>465</LineToX>
+ <LineToY>390</LineToY>
+</Button>
+<Button Name="DPadDown">
+ <JustificationPositionX>480</JustificationPositionX>
+ <JustificationPositionY>680</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>465</LineToX>
+ <LineToY>460</LineToY>
+</Button>
+<Button Name="DPadLeft">
+ <JustificationPositionX>410</JustificationPositionX>
+ <JustificationPositionY>620</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>430</LineToX>
+ <LineToY>430</LineToY>
+</Button>
+<Button Name="DPadRight">
+ <JustificationPositionX>530</JustificationPositionX>
+ <JustificationPositionY>620</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>510</LineToX>
+ <LineToY>430</LineToY>
+</Button>
+<Button Name="A">
+ <JustificationPositionX>860</JustificationPositionX>
+ <JustificationPositionY>380</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>770</LineToX>
+ <LineToY>360</LineToY>
+</Button>
+<Button Name="B">
+ <JustificationPositionX>860</JustificationPositionX>
+ <JustificationPositionY>310</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>810</LineToX>
+ <LineToY>310</LineToY>
+</Button>
+<Button Name="X">
+ <JustificationPositionX>860</JustificationPositionX>
+ <JustificationPositionY>260</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>720</LineToX>
+ <LineToY>320</LineToY>
+</Button>
+<Button Name="Y">
+ <JustificationPositionX>840</JustificationPositionX>
+ <JustificationPositionY>210</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>770</LineToX>
+ <LineToY>260</LineToY>
+</Button>
+<Button Name="LeftTrigger">
+ <JustificationPositionX>400</JustificationPositionX>
+ <JustificationPositionY>100</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>400</LineToX>
+ <LineToY>170</LineToY>
+</Button>
+<Button Name="RightTrigger">
+ <JustificationPositionX>700</JustificationPositionX>
+ <JustificationPositionY>100</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>700</LineToX>
+ <LineToY>170</LineToY>
+</Button>
+<Button Name="LeftBumper">
+ <JustificationPositionX>375</JustificationPositionX>
+ <JustificationPositionY>150</JustificationPositionY>
+ <Justification>R</Justification>
+ <LineToX>375</LineToX>
+ <LineToY>210</LineToY>
+</Button>
+<Button Name="RightBumper">
+ <JustificationPositionX>750</JustificationPositionX>
+ <JustificationPositionY>150</JustificationPositionY>
+ <Justification>L</Justification>
+ <LineToX>750</LineToX>
+ <LineToY>210</LineToY>
+</Button>
+</ControllerLayout>

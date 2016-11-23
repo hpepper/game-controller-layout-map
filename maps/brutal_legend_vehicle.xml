@@ -1,0 +1,22 @@
+<ButtonActions Title="Brutal legend - Vehicle">
+<Button Name="BackButton">Map</Button>
+<Button Name="StartButton">Pause</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Steer</Button>
+<Button Name="LeftStickButton">Boost</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton"></Button>
+<Button Name="DPadUp">Customize</Button>
+<Button Name="DPadDown">Mute radio</Button>
+<Button Name="DPadLeft">Prev track</Button>
+<Button Name="DPadRight">Next track</Button>
+<Button Name="A">Fire guns</Button>
+<Button Name="B">Handbrake</Button>
+<Button Name="X">Sec wpn</Button>
+<Button Name="Y">Enter/exit vehicle</Button>
+<Button Name="LeftTrigger">Brake-reverse</Button>
+<Button Name="RightTrigger">Accelerate</Button>
+<Button Name="LeftBumper">Rearview</Button>
+<Button Name="RightBumper">Recruit menu</Button>
+<Notes></Notes>
+</ButtonActions>

@@ -1,0 +1,22 @@
+<ButtonActions Title="Armored Core 4">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton">Pause</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">move</Button>
+<Button Name="LeftStickButton">Toggle target</Button>
+<Button Name="RightStick">look</Button>
+<Button Name="RightStickButton">reset view</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Fire right arm wpn</Button>
+<Button Name="B">Fire shoulder wpn</Button>
+<Button Name="X">Fire left arm wpn</Button>
+<Button Name="Y">toggle Over boost</Button>
+<Button Name="LeftTrigger">Engage booster</Button>
+<Button Name="RightTrigger">Engage quick boost</Button>
+<Button Name="LeftBumper">Chg lft arm wpn</Button>
+<Button Name="RightBumper">Chg rght arm wpn</Button>
+<Notes>Combos: rght stick+trigger=qb rotate / hld RB=Reload rght arm / Hld LB=reload lft wpn / Hld RB=reload rght wpn / LB+RB+B=Purge lft wpn / LB+RB+B=Purge lft wpn</Notes>
+</ButtonActions>

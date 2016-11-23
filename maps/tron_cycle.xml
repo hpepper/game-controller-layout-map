@@ -1,0 +1,22 @@
+<ButtonActions Title="Tron Light cycle">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Steer</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Camera</Button>
+<Button Name="RightStickButton">Rear view</Button>
+<Button Name="DPadUp">pwr</Button>
+<Button Name="DPadDown">pwr</Button>
+<Button Name="DPadLeft">pwr</Button>
+<Button Name="DPadRight">pwr</Button>
+<Button Name="A">Dismount</Button>
+<Button Name="B">cycle camera</Button>
+<Button Name="X">attack</Button>
+<Button Name="Y">disc pwr</Button>
+<Button Name="LeftTrigger">Brake + reverse</Button>
+<Button Name="RightTrigger">Accelerate</Button>
+<Button Name="LeftBumper">90 deg left</Button>
+<Button Name="RightBumper">90 deg right</Button>
+<Notes></Notes>
+</ButtonActions>

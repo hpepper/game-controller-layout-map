@@ -1,0 +1,23 @@
+<ButtonActions Title="Project Gotham Racing 4">
+<Button Name="BackButton">Back</Button>
+<Button Name="StartButton">Pause</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Steer</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Look around</Button>
+<Button Name="RightStickButton"></Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Hand brake</Button>
+<Button Name="B">Taunt/shof off</Button>
+<Button Name="X">Shift down</Button>
+<Button Name="Y">Shift up</Button>
+<Button Name="LeftTrigger">Brake - Reverse</Button>
+<Button Name="RightTrigger">Accelerate</Button>
+<Button Name="LeftBumper">Change camera</Button>
+<Button Name="RightBumper">Show drivers names</Button>
+<Notes></Notes>
+</ButtonActions>
+

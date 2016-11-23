@@ -1,0 +1,22 @@
+<ButtonActions Title="Tron light tank">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Drive</Button>
+<Button Name="LeftStickButton"></Button>
+<Button Name="RightStick">Aim turret</Button>
+<Button Name="RightStickButton"></Button>
+<Button Name="DPadUp">pwr</Button>
+<Button Name="DPadDown">pwr</Button>
+<Button Name="DPadLeft">pwr</Button>
+<Button Name="DPadRight">pwr</Button>
+<Button Name="A">Exit</Button>
+<Button Name="B"></Button>
+<Button Name="X">Fire</Button>
+<Button Name="Y">Pwr attack</Button>
+<Button Name="LeftTrigger">Pwr attack</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper"></Button>
+<Button Name="RightBumper"></Button>
+<Notes></Notes>
+</ButtonActions>

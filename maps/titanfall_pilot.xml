@@ -1,0 +1,23 @@
+<ButtonActions Title="Titanfall Pilot">
+<Button Name="BackButton"></Button>
+<Button Name="StartButton"></Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Movement</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Aim</Button>
+<Button Name="RightStickButton">Melee</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown">Call Titan</Button>
+<Button Name="DPadLeft">Anti-Titan weapon</Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Jump/Wall run</Button>
+<Button Name="B">Crouch</Button>
+<Button Name="X">Reload</Button>
+<Button Name="Y">Switch</Button>
+<Button Name="LeftTrigger">Aim</Button>
+<Button Name="RightTrigger">Fire</Button>
+<Button Name="LeftBumper">Spc</Button>
+<Button Name="RightBumper">Grenade</Button>
+<Notes></Notes>
+</ButtonActions>
+

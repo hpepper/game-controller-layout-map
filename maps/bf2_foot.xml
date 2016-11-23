@@ -1,0 +1,23 @@
+<ButtonActions Title="BF2 - On Foot">
+<Button Name="BackButton">Spot enemy/team comm</Button>
+<Button Name="StartButton">Menu</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Sprint</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Crouch/Stand</Button>
+<Button Name="DPadUp"></Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft">Primary gadget</Button>
+<Button Name="DPadRight">Secondary gadget</Button>
+<Button Name="A">Jump</Button>
+<Button Name="B">Enter/exit vehicle</Button>
+<Button Name="X">Reload</Button>
+<Button Name="Y">Switch weapon</Button>
+<Button Name="LeftTrigger">Zoom/use gadget</Button>
+<Button Name="RightTrigger">Fire/use selected item</Button>
+<Button Name="LeftBumper">Throw grenade</Button>
+<Button Name="RightBumper">Melee</Button>
+<Notes></Notes>
+</ButtonActions>
+

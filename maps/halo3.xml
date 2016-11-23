@@ -1,0 +1,23 @@
+<ButtonActions Title="Halo 3">
+<Button Name="BackButton">Status</Button>
+<Button Name="StartButton">Configuration</Button>
+<Button Name="XBoxButton"></Button>
+<Button Name="LeftStick">Move</Button>
+<Button Name="LeftStickButton">Crouch - Stand</Button>
+<Button Name="RightStick">Look</Button>
+<Button Name="RightStickButton">Zoom</Button>
+<Button Name="DPadUp">Flashlight</Button>
+<Button Name="DPadDown"></Button>
+<Button Name="DPadLeft"></Button>
+<Button Name="DPadRight"></Button>
+<Button Name="A">Jump</Button>
+<Button Name="B">Melee</Button>
+<Button Name="X">Use</Button>
+<Button Name="Y">Cycle weapons</Button>
+<Button Name="LeftTrigger">Scnd Wpn</Button>
+<Button Name="RightTrigger">Primary Wpn</Button>
+<Button Name="LeftBumper">Choose granate</Button>
+<Button Name="RightBumper">Action / reload primary Wpn</Button>
+<Notes></Notes>
+</ButtonActions>
+
